@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+}
+
+header{
+    background-color: chocolate;
+    padding: 4px;
+    position: sticky;
+    top:0px;
+    z-index:100;
+    text-align: center;
+}
+

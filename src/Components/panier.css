@@ -1,0 +1,20 @@
+.artimg{
+    width: 100px;
+    
+}
+.artimgmin{
+    width: 30px;
+}
+.prodname{
+    width: 60%;
+    padding: 4px;
+}
+.qtt{
+    padding: 4px;
+}
+.delimg{
+    width: 25px;
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,11 @@
+article{
+    margin: 4px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 75vw;
+    border: 1px solid ;
+    box-shadow: 3px 3px  gray;
+    overflow: scroll;
+    padding: 20px;
+}
